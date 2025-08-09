@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ashe52
-- 👀 I’m interested in video games comp sci and art
-- 🌱 I’m currently learning film
+- 👋 Hi, I’m Ashelynn
+- 👀 I’m interested in making my own personal website as a passion project
+- 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me @dumbo_mp4 on twt
-- 😄 Pronouns: she/they/it/pup
+- 📫 How to reach me: idunno_52 on discord
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: also a FURRY
 
 <!---
